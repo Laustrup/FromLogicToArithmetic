@@ -1,0 +1,3 @@
+C:/Users/Laust/CLionProjects/FromLogicToArithmetic/cmake-build-debug/CMakeFiles/FromLogicToArithmetic.dir
+C:/Users/Laust/CLionProjects/FromLogicToArithmetic/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Laust/CLionProjects/FromLogicToArithmetic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
