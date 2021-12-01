@@ -134,7 +134,7 @@ int main() {
     bits8_print(bits);
     printf("\nBits8 decimal value: %d\n",bits8_to_int(bits));
 
-    printf("\nAdded to times it's:\n");
+    printf("\nAdded two times it's:\n");
     bits8_print(bits8_add(bits,bits));
 
     printf("\n");
